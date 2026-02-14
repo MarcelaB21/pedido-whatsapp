@@ -28,7 +28,7 @@ Este proyecto es una aplicación web interactiva diseñada para la visualizació
 
 ## ▸ Demo en vivo
 
-👉 https://marcelab21.github.io/pedido-whatsapp-demo/
+👉https://marcelab21.github.io/pedido-whatsapp/
 
 ---
 
