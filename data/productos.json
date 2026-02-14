@@ -1,0 +1,97 @@
+
+  [
+    {
+      "id": "pechuga",
+      "name": "Pechuga de Pollo ",
+      "category": "pollo",
+      "price": 12500,
+      "weight": "Aprox. 650g",
+      "unitType": "U",
+      "image": "img/products/pechuga-pollo.webp"
+    },
+    {
+      "id": "alas",
+      "name": "Alas de Pollo ",
+      "category": "pollo",
+      "price": 2500,
+      "weight": "Aprox. 250g",
+      "unitType": "U",
+      "image": "img/products/alas-pollo.webp"
+    },
+    
+    {
+      "id": "muslos",
+      "name": "Muslos de Pollo",
+      "category": "pollo",
+      "price": 2400,
+      "weight": "Aprox. 160g",
+      "unitType": "U",
+      "image": "img/products/muslo-pollo.webp"
+    },
+    
+    {
+      "id": "chuleta-pollo",
+      "name": "Chuleta de Pollo ",
+      "category": "pollo",
+      "price": 12800,
+      "weight": "Peso variable",
+      "unitType": "lb",
+      "image": "img/products/chuleta-pollo.webp"
+    },
+    {
+      "id": "pollo-entero",
+      "name": "Pollo Entero ",
+      "category": "pollo",
+      "price": 24500,
+      "weight": "Unidad estándar",
+      "unitType": "U",
+      "image": "img/products/pollo-entero.webp"
+    },
+    {
+      "id": "menudencia",
+      "name": "Pack de Menudencias",
+      "category": "pollo",
+      "price": 1800,
+      "weight": "Unidad",
+      "unitType": "U",
+      "image": "img/products/menudencias-pollo.webp"
+    },
+    {
+      "id": "chuleta-cerdo",
+      "name": "Chuleta de Cerdo",
+      "category": "cerdo",
+      "price": 13500,
+      "weight": "Peso variable",
+      "unitType": "lb",
+      "image": "img/products/chuleta-cerdo.webp"
+    },
+    {
+      "id": "pierna-cerdo",
+      "name": "Pierna de Cerdo ",
+      "category": "cerdo",
+      "price": 14000,
+      "weight": "Peso variable",
+      "unitType": "lb",
+      "image": "img/products/pierna-cerdo.webp"
+    },
+    {
+      "id": "lomo-cerdo",
+      "name": "Lomo de Cerdo ",
+      "category": "cerdo",
+      "price": 14500,
+      "weight": "Peso variable",
+      "unitType": "lb",
+      "image": "img/products/lomo-cerdo.webp"
+    },
+    {
+      "id": "huevos",
+      "name": "Cubeta de Huevo",
+      "category": "huevos",
+      "price": 16000,
+      "unitType": "PANAL",
+      "weight": "30 Unidades",
+      "image": "img/products/huevos.webp"
+    }
+    
+  ]
+  
